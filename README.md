@@ -2,7 +2,7 @@
 In This project,we will Detect Tampering of pan card using computer vision. This project will help the different organizations in detecting whether the ID i.e. The pan card providedto them by their employess or customers or anyone is original or not.
 
 #Functionality
-1) Get images from user.
+1) Get images from user.<br>
 2)Check for size and format of the image.
 3)Change shape and size of image according to the original image,
 4)Convert the images to grayscale.
